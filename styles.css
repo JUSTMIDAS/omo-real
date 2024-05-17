@@ -59,7 +59,7 @@ nav {
 
 #menu a{
   color: #ffcf00;
-  font-size: 1.1em;
+  font-size: 0.8em;
   text-transform: uppercase;
   text-decoration: none;
 }
@@ -425,6 +425,9 @@ footer .social-icons a {
 @media screen and (min-width: 900px) {
   html {
     font-size: 1rem;
+  }
+  #menu a{
+    font-size:1.1em;
   }
   .main-content {
     font-size: 1.2rem;
